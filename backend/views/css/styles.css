@@ -307,6 +307,12 @@ body {
   cursor: pointer;
 }
 
+.msg {
+  display: flex;
+  flex-direction: column;
+  margin: 2pc;
+}
+
 /* FOOTER */
 footer {
   background-color: var(--primary);
